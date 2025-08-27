@@ -1,2 +1,1 @@
-# LEARNING-MACHINE
-Vitor Edmilson Duarte Santos
+# ATIVIDADES-LEARNING-MACHINE
