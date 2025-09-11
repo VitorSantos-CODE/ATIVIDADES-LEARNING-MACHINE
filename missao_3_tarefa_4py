@@ -24,6 +24,7 @@ for passo in range(20):
     
     if posicao_agente == objetivo:
      recompensa_total += 50
+     break;
 
     # TODO 2: Crie uma variável 'recompensa_passo'.
     # - Se a 'posicao_agente' estiver na lista 'chao_de_lava', a recompensa do passo é -5.
